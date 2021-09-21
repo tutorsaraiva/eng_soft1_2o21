@@ -1,1 +1,25 @@
 Teste Teste Teste
+total 28
+drwxrwxr-x 3 orlando orlando 4096 set 20 21:41 .
+drwxrwxr-x 3 orlando orlando 4096 set 20 21:41 ..
+-rw-rw-r-- 1 orlando orlando   78 set 20 21:41 arquivo0.txt
+-rw-rw-r-- 1 orlando orlando   18 set 20 21:41 arquivo1.txt
+-rw-rw-r-- 1 orlando orlando   18 set 20 21:41 arquivo2.txt
+-rw-rw-r-- 1 orlando orlando  476 set 20 21:41 arquivo3.txt
+drwxrwxr-x 8 orlando orlando 4096 set 20 21:41 .git
+total 28
+drwxrwxr-x 3 orlando orlando 4096 set 20 21:41 .
+drwxrwxr-x 3 orlando orlando 4096 set 20 21:41 ..
+-rw-rw-r-- 1 orlando orlando   78 set 20 21:41 arquivo0.txt
+-rw-rw-r-- 1 orlando orlando  418 set 20 21:41 arquivo1.txt
+-rw-rw-r-- 1 orlando orlando   18 set 20 21:41 arquivo2.txt
+-rw-rw-r-- 1 orlando orlando  476 set 20 21:41 arquivo3.txt
+drwxrwxr-x 8 orlando orlando 4096 set 20 21:41 .git
+total 28
+drwxrwxr-x 3 orlando orlando 4096 set 20 21:41 .
+drwxrwxr-x 3 orlando orlando 4096 set 20 21:41 ..
+-rw-rw-r-- 1 orlando orlando   78 set 20 21:41 arquivo0.txt
+-rw-rw-r-- 1 orlando orlando  818 set 20 21:41 arquivo1.txt
+-rw-rw-r-- 1 orlando orlando   18 set 20 21:41 arquivo2.txt
+-rw-rw-r-- 1 orlando orlando  476 set 20 21:41 arquivo3.txt
+drwxrwxr-x 8 orlando orlando 4096 set 20 21:41 .git
