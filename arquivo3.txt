@@ -1,0 +1,9 @@
+total 32
+drwxrwxr-x  3 orlando orlando  4096 set 20 20:52 .
+drwxrwxrwt 26 root    root    12288 set 20 21:10 ..
+-rw-rw-r--  1 orlando orlando    78 set 20 21:11 arquivo0.txt
+-rw-rw-r--  1 orlando orlando    18 set 20 20:49 arquivo1.txt
+-rw-rw-r--  1 orlando orlando    18 set 20 20:49 arquivo2.txt
+-rw-rw-r--  1 orlando orlando     0 set 20 21:11 arquivo3.txt
+-rw-rw-r--  1 orlando orlando     0 set 20 20:37 arquivo4.txt
+drwxrwxr-x  8 orlando orlando  4096 set 20 21:11 .git
